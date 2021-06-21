@@ -39,7 +39,9 @@
 
 <body>
 
-  
+    <!-- ========================
+    Offcanvas Menu Area Start 
+    ===========================-->
     <div class="offcanvas_overlay">
 
     </div>
@@ -189,7 +191,7 @@
                                                 <li><a href="">Sessions</a></li>
                                                 <li><a href="">OtoAccess®</a></li>
                                                 <li><a href="">Accessories</a></li>
-                                                
+                                                <li><a href="">MINI 250</a></li>
                                                 <li><a href="">MAXI 350</a></li>
                                             </ul>
                                         </li>

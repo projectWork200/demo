@@ -1,8 +1,9 @@
 <?php 
 include('header2.php');
 ?>
-<!-- ==rea  End 
-    ============
+<!-- =================
+    Header Area  End 
+    =====================-->
 
     <!--=====================
     Breadcrumb Aera Start
@@ -16,7 +17,7 @@ include('header2.php');
                             <li>
                                 <h1><a href="index.html">Home</a></h1>
                             </li>
-                            <li>About us</li>
+                            <li>About Us</li>
                         </ul>
                     </div>
                 </div>
@@ -50,7 +51,7 @@ include('header2.php');
                 </div>
                 <div class="col-lg-6 mt-20 text-center">
                     <div class="about-content">
-                        <h3 class="last-title mb-20">What Do We do?</h3>
+                        <h3 class="last-title mb-20">What Do We Do?</h3>
                         <p>We provide an attractive workplace for the industry's best and brightest, allowing us to set the standard for an entire industry. Not for the sake of science. But for the sake of enabling professionals to provide excellent treatment for their millions of patients across the globe. <br> It's simply science made smarter.</p>
                          </div>
                 </div>
