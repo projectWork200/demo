@@ -16,7 +16,7 @@ include('header2.php');
                             <li>
                                 <h1><a href="index.html">Home</a></h1>
                             </li>
-                            <li>About Us</li>
+                            <li>About us</li>
                         </ul>
                     </div>
                 </div>
